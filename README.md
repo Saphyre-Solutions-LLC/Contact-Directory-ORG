@@ -94,6 +94,13 @@ The **Frontend Development Team** designs and develops intuitive and engaging us
 - **Primary Responsibilities:** UI/UX design, responsive web development, accessibility standards, and frontend optimization.
 - **Contact:** [Frontend@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
 
+## 🔹 **Backend Development Team**
+*Develops secure, scalable, and high-performance server-side systems.*
+The **Backend Development Team** is responsible for building and maintaining the core functionality of applications, ensuring efficient data processing, system security, and seamless API integrations.
+
+- **Primary Responsibilities:** Server-side logic, database management, API development, authentication, and performance optimization.
+- **Contact:** [Backend@SaphyreSolutions.com](Tim.Spurlin@SaphyreSolutions.com)
+
 ---
 
 ## 🔹 **New Developers & Mentorship Team**  
