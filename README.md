@@ -32,7 +32,7 @@ Our teams are the driving force behind **Saphyre Solutions LLC**. Each team play
 The **Software Development Team** is dedicated to designing, developing, and deploying high-quality software solutions. They ensure our products are efficient, secure, and user-friendly.
 
 - **Primary Responsibilities:** Application development, software architecture, code optimization, and debugging.
-- **Contact:** [Software@SaphyreSolutions.com](mailto:Software@SaphyreSolutions.com)
+- **Contact:** [Software@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
 
 ---
 
@@ -42,7 +42,7 @@ The **Software Development Team** is dedicated to designing, developing, and dep
 The **DevOps & Automation Team** bridges the gap between development and operations, ensuring seamless software delivery and infrastructure management.
 
 - **Primary Responsibilities:** Automation of workflows, continuous integration/continuous deployment (CI/CD), and infrastructure optimization.
-- **Contact:** [DevOps@SaphyreSolutions.com](mailto:DevOps@SaphyreSolutions.com)
+- **Contact:** [DevOps@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
 
 ---
 
@@ -52,7 +52,7 @@ The **DevOps & Automation Team** bridges the gap between development and operati
 The **Cloud Engineering Team** ensures our cloud infrastructure is secure, scalable, and optimized for peak performance.
 
 - **Primary Responsibilities:** Cloud architecture, deployment management, cloud security, and scalability solutions.
-- **Contact:** [Cloud@SaphyreSolutions.com](mailto:Cloud@SaphyreSolutions.com)
+- **Contact:** [Cloud@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
 
 ---
 
@@ -62,7 +62,7 @@ The **Cloud Engineering Team** ensures our cloud infrastructure is secure, scala
 The **Cybersecurity Team** is dedicated to safeguarding the organization's digital assets, employing cutting-edge technologies to detect and prevent threats.
 
 - **Primary Responsibilities:** Threat detection, vulnerability management, data protection, and compliance.
-- **Contact:** [Cybersecurity@SaphyreSolutions.com](mailto:Cybersecurity@SaphyreSolutions.com)
+- **Contact:** [Cybersecurity@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
 
 ---
 
@@ -72,7 +72,7 @@ The **Cybersecurity Team** is dedicated to safeguarding the organization's digit
 The **Data Engineering Team** constructs robust data pipelines and architectures to support data-driven decision-making across the organization.
 
 - **Primary Responsibilities:** Data pipeline development, data integration, ETL processes, and data quality assurance.
-- **Contact:** [Data@SaphyreSolutions.com](mailto:Data@SaphyreSolutions.com)
+- **Contact:** [Data@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
 
 ---
 
@@ -82,7 +82,7 @@ The **Data Engineering Team** constructs robust data pipelines and architectures
 The **Network Engineering Team** is responsible for maintaining the organization's network infrastructure, ensuring reliable and secure connectivity.
 
 - **Primary Responsibilities:** Network design, performance optimization, security protocols, and troubleshooting.
-- **Contact:** [Network@SaphyreSolutions.com](mailto:Network@SaphyreSolutions.com)
+- **Contact:** [Network@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
 
 ---
 
@@ -92,7 +92,7 @@ The **Network Engineering Team** is responsible for maintaining the organization
 The **Frontend Development Team** designs and develops intuitive and engaging user interfaces, ensuring a seamless experience for all users.
 
 - **Primary Responsibilities:** UI/UX design, responsive web development, accessibility standards, and frontend optimization.
-- **Contact:** [Frontend@SaphyreSolutions.com](mailto:Frontend@SaphyreSolutions.com)
+- **Contact:** [Frontend@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
 
 ---
 
@@ -102,14 +102,14 @@ The **Frontend Development Team** designs and develops intuitive and engaging us
 The **New Developers & Mentorship Team** focuses on integrating new team members, offering guidance, and fostering professional growth within the organization.
 
 - **Primary Responsibilities:** Onboarding processes, mentorship programs, skill development, and continuous learning initiatives.
-- **Contact:** [Mentorship@SaphyreSolutions.com](mailto:Mentorship@SaphyreSolutions.com)
+- **Contact:** [Mentorship@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
 
 ---
 
 # 🌐 **Organization Resources**
 
 - **Organization Homepage:** [Saphyre Solutions LLC on GitHub](https://github.com/Saphyre-Solutions-LLC)  
-- **General Inquiries:** [info@SaphyreSolutions.com](mailto:info@SaphyreSolutions.com)
+- **General Inquiries:** [info@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
 
 ---
 
