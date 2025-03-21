@@ -15,7 +15,7 @@ Tim Spurlin leads the vision and strategic direction of the company, ensuring ev
 
 - **Email:** [Tim.Spurlin@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)  
 - **Phone:** +1 (701) 941-0811  
-- **GitHub Profile:** [github.com/Tim-Spurlin](https://github.com/Tim-Spurlin)  
+- **GitHub Profile:** [github.com/Tim-Spurlin](https://github.com/Saphyre-Solutions-LLC)  
 - **LinkedIn:** [linkedin.com/feed](https://www.linkedin.com/feed/)
 
 ---
@@ -46,80 +46,63 @@ The **DevOps & Automation Team** bridges the gap between development and operati
 
 ---
 
-## 🔹 **Cloud Engineering Team**  
+## 🔹 **Product Management Team**  
 
-*Manages cloud deployments, scalability, and cloud security on AWS, Azure, and Google Cloud.*  
-The **Cloud Engineering Team** ensures our cloud infrastructure is secure, scalable, and optimized for peak performance.
+*Guides product development and ensures alignment with business objectives.*  
+The **Product Management Team** collaborates with engineering and design teams to define, prioritize, and execute product roadmaps while keeping the customer experience in mind.
 
-- **Primary Responsibilities:** Cloud architecture, deployment management, cloud security, and scalability solutions.
-- **Contact:** [Cloud@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
-
----
-
-## 🔹 **Cybersecurity Team**  
-
-*Protects systems and data through advanced threat detection and AI-driven security solutions.*  
-The **Cybersecurity Team** is dedicated to safeguarding the organization's digital assets, employing cutting-edge technologies to detect and prevent threats.
-
-- **Primary Responsibilities:** Threat detection, vulnerability management, data protection, and compliance.
-- **Contact:** [Cybersecurity@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
+- **Primary Responsibilities:** Product lifecycle management, feature prioritization, market research, and user feedback analysis.  
+- **Contact:** [Product@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)  
 
 ---
 
-## 🔹 **Data Engineering Team**  
+## 🔹 **UI/UX & Design Team**  
 
-*Develops and manages data pipelines, ensuring efficient data flow and analysis.*  
-The **Data Engineering Team** constructs robust data pipelines and architectures to support data-driven decision-making across the organization.
+*Enhances user experience through intuitive design and research-driven interfaces.*  
+The **UI/UX & Design Team** focuses on creating user-centric designs, ensuring accessibility, and optimizing interactions across digital products.
 
-- **Primary Responsibilities:** Data pipeline development, data integration, ETL processes, and data quality assurance.
-- **Contact:** [Data@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
-
----
-
-## 🔹 **AI & Machine Learning Team**
-*Drives innovation through artificial intelligence and machine learning solutions.*
-The **AI & Machine Learning Team** focuses on developing intelligent algorithms, automation models, and predictive analytics to enhance decision-making and product capabilities.
-
-- **Primary Responsibilities:** AI model development, deep learning, natural language processing (NLP), and computer vision.
-- **Contact:** [AI@SaphyreSolutions.com](Tim.Spurlin@SaphyreSolutions.com)
-
+- **Primary Responsibilities:** User research, wireframing, prototyping, usability testing, and design system management.  
+- **Contact:** [Design@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)  
 
 ---
 
-## 🔹 **Network Engineering Team**  
+## 🔹 **Technical Support & IT Operations Team**  
 
-*Optimizes and secures network systems to ensure top performance and reliability.*  
-The **Network Engineering Team** is responsible for maintaining the organization's network infrastructure, ensuring reliable and secure connectivity.
+*Keeps systems running smoothly and provides IT support to internal teams.*  
+The **Technical Support & IT Operations Team** ensures that all employees have the necessary technical resources, troubleshooting assistance, and system reliability.
 
-- **Primary Responsibilities:** Network design, performance optimization, security protocols, and troubleshooting.
-- **Contact:** [Network@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
-
----
-
-## 🔹 **Frontend Development Team**  
-
-*Crafts responsive, accessible, and user-friendly interfaces.*  
-The **Frontend Development Team** designs and develops intuitive and engaging user interfaces, ensuring a seamless experience for all users.
-
-- **Primary Responsibilities:** UI/UX design, responsive web development, accessibility standards, and frontend optimization.
-- **Contact:** [Frontend@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
-
-## 🔹 **Backend Development Team**
-*Develops secure, scalable, and high-performance server-side systems.*
-The **Backend Development Team** is responsible for building and maintaining the core functionality of applications, ensuring efficient data processing, system security, and seamless API integrations.
-
-- **Primary Responsibilities:** Server-side logic, database management, API development, authentication, and performance optimization.
-- **Contact:** [Backend@SaphyreSolutions.com](Tim.Spurlin@SaphyreSolutions.com)
+- **Primary Responsibilities:** IT support, system administration, incident response, hardware/software management, and internal IT security.  
+- **Contact:** [IT@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)  
 
 ---
 
-## 🔹 **New Developers & Mentorship Team**  
+## 🔹 **Research & Development (R&D) Team**  
 
-*Dedicated to onboarding new developers, providing mentorship, and fostering continuous learning.*  
-The **New Developers & Mentorship Team** focuses on integrating new team members, offering guidance, and fostering professional growth within the organization.
+*Explores emerging technologies to keep Saphyre Solutions ahead of the curve.*  
+The **R&D Team** is responsible for researching new trends, experimenting with innovative technologies, and developing proof-of-concept (PoC) solutions for future projects.
 
-- **Primary Responsibilities:** Onboarding processes, mentorship programs, skill development, and continuous learning initiatives.
-- **Contact:** [Mentorship@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)
+- **Primary Responsibilities:** Technology exploration, prototyping, innovation projects, and feasibility studies.  
+- **Contact:** [RD@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)  
+
+---
+
+## 🔹 **Compliance & Governance Team**  
+
+*Ensures regulatory compliance, security policies, and risk management.*  
+The **Compliance & Governance Team** is responsible for maintaining industry compliance, protecting sensitive data, and enforcing security policies.
+
+- **Primary Responsibilities:** Regulatory compliance (GDPR, HIPAA, SOC 2), security audits, risk assessment, and data protection policies.  
+- **Contact:** [Compliance@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)  
+
+---
+
+## 🔹 **Sales & Business Development Team**  
+
+*Drives growth through partnerships, client engagement, and market expansion.*  
+The **Sales & Business Development Team** works to expand Saphyre Solutions' reach by acquiring new clients, forming strategic partnerships, and generating revenue streams.
+
+- **Primary Responsibilities:** Lead generation, client acquisition, partnership management, and revenue growth strategies.  
+- **Contact:** [Sales@SaphyreSolutions.com](mailto:Tim.Spurlin@SaphyreSolutions.com)  
 
 ---
 
@@ -132,4 +115,3 @@ The **New Developers & Mentorship Team** focuses on integrating new team members
 
 **Saphyre Solutions LLC**  
 *Driving Innovation. Empowering Solutions.*
-
