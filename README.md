@@ -81,7 +81,7 @@ The **Data Engineering Team** constructs robust data pipelines and architectures
 The **AI & Machine Learning Team** focuses on developing intelligent algorithms, automation models, and predictive analytics to enhance decision-making and product capabilities.
 
 - **Primary Responsibilities:** AI model development, deep learning, natural language processing (NLP), and computer vision.
-- **Contact:** AI@SaphyreSolutions.com
+- **Contact:** [AI@SaphyreSolutions.com](Tim.Spurlin@SaphyreSolutions.com)
 
 
 ---
